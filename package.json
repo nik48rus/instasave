@@ -1,10 +1,10 @@
 {
   "name": "saveinst",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Приложение по сохранению фотографий из Instagram",
+  "main": "scrape.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node scrape.js"
   },
   "author": "Nikita Kudinov",
   "license": "ISC",
